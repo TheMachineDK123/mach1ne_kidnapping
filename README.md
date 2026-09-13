@@ -2,7 +2,6 @@
 
 ## Krav
 
-|---|---|
 | [es_extended](https://github.com/esx-framework/esx_core) | Framework (ESX Legacy) |
 | [ox_lib](https://github.com/overextended/ox_lib) | Callbacks |
 | [oxmysql](https://github.com/overextended/oxmysql) | Database (cooldown persistens) |
