@@ -1,18 +1,5 @@
 # mach1ne_kidnapping
 
-Kidnapping-mission til FiveM (ESX). Find et offer, forhør dem med tre tortur-metoder, optag videoen og sælg den til bossen for kontanter.
-
-## Funktioner
-
-- **Tre tortur-scener**: Skruenøgle, vandtortur (waterboarding) og tandtræk
-- **Videooptagelse**: Optag forhøret og sælg videoen til bossen
-- **Cooldown**: Ventetid mellem missioner (konfigurerbar, gemmes i database)
-- **Politi-alarm**: Politiet får en GPS-markering når torturen starter
-- **ox_inventory**: Fuldt integrationeret med ox_inventory til items og penge
-- **st_libs**: Notifikationer, 3D interaction og textUI
-- **oxmysql**: Cooldown persistens (overlever server-restart)
-- **Dansk UI**: Alle tekster er på dansk
-
 ## Krav
 
 |---|---|
